@@ -1,0 +1,12 @@
+{
+    "name": "root/simplephpunit",
+    "authors": [
+        {
+            "name": "Jhonatas",
+            "email": "jhonatas.cf@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "6.0.*"
+    }
+}
